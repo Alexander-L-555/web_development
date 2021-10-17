@@ -11,6 +11,7 @@
 }
 
 body {
+  text-align: center;
   background-color: #393E46;
 }
 
@@ -30,6 +31,10 @@ p {
 
 img {
   width: 80%;
+}
+
+.btn {
+  margin-top: 3%;
 }
 
 footer {
